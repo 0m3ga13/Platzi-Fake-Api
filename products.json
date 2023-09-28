@@ -1,502 +1,1002 @@
 [
   {
-    "id": 51,
-    "title": "Product 51",
-    "price": 767,
-    "description": "Description for Product 51",
+    "id": 1,
+    "title": "Product 1",
+    "price": 531,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product1"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "price": 481,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product2"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "price": 739,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=51"
+      "https://source.unsplash.com/random/1600x900?product3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "price": 653,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product4"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "price": 528,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product5"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Product 6",
+    "price": 652,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product6"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Product 7",
+    "price": 159,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product7"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Product 8",
+    "price": 344,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product8"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Product 9",
+    "price": 390,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product9"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Product 10",
+    "price": 847,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product10"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Product 11",
+    "price": 295,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product11"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Product 12",
+    "price": 52,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product12"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Product 13",
+    "price": 334,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product13"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Product 14",
+    "price": 677,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product14"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Product 15",
+    "price": 911,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product15"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Product 16",
+    "price": 687,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product16"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Product 17",
+    "price": 279,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product17"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Product 18",
+    "price": 699,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product18"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Product 19",
+    "price": 633,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product19"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Product 20",
+    "price": 711,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product20"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Product 21",
+    "price": 716,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product21"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Product 22",
+    "price": 881,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product22"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Product 23",
+    "price": 357,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product23"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Product 24",
+    "price": 569,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product24"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Product 25",
+    "price": 13,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product25"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Product 26",
+    "price": 758,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product26"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Product 27",
+    "price": 278,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product27"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Product 28",
+    "price": 640,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product28"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Product 29",
+    "price": 314,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product29"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Product 30",
+    "price": 559,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product30"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Product 31",
+    "price": 932,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product31"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Product 32",
+    "price": 55,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product32"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Product 33",
+    "price": 393,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product33"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Product 34",
+    "price": 63,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product34"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Product 35",
+    "price": 988,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product35"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Product 36",
+    "price": 108,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product36"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Product 37",
+    "price": 737,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product37"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Product 38",
+    "price": 488,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product38"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Product 39",
+    "price": 39,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product39"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Product 40",
+    "price": 719,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product40"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Product 41",
+    "price": 732,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product41"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Product 42",
+    "price": 347,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product42"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Product 43",
+    "price": 662,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product43"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Product 44",
+    "price": 247,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product44"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Product 45",
+    "price": 106,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product45"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Product 46",
+    "price": 73,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product46"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Product 47",
+    "price": 129,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product47"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Product 48",
+    "price": 450,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product48"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Product 49",
+    "price": 819,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product49"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Product 50",
+    "price": 984,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product50"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Product 51",
+    "price": 915,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
+    "images": [
+      "https://source.unsplash.com/random/1600x900?product51"
     ]
   },
   {
     "id": 52,
     "title": "Product 52",
-    "price": 968,
-    "description": "Description for Product 52",
-    "categoryId": 2,
+    "price": 692,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=52"
+      "https://source.unsplash.com/random/1600x900?product52"
     ]
   },
   {
     "id": 53,
     "title": "Product 53",
-    "price": 484,
-    "description": "Description for Product 53",
-    "categoryId": 1,
+    "price": 417,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=53"
+      "https://source.unsplash.com/random/1600x900?product53"
     ]
   },
   {
     "id": 54,
     "title": "Product 54",
-    "price": 203,
-    "description": "Description for Product 54",
-    "categoryId": 1,
+    "price": 989,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=54"
+      "https://source.unsplash.com/random/1600x900?product54"
     ]
   },
   {
     "id": 55,
     "title": "Product 55",
-    "price": 437,
-    "description": "Description for Product 55",
-    "categoryId": 3,
+    "price": 690,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=55"
+      "https://source.unsplash.com/random/1600x900?product55"
     ]
   },
   {
     "id": 56,
     "title": "Product 56",
-    "price": 803,
-    "description": "Description for Product 56",
-    "categoryId": 5,
+    "price": 591,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=56"
+      "https://source.unsplash.com/random/1600x900?product56"
     ]
   },
   {
     "id": 57,
     "title": "Product 57",
-    "price": 37,
-    "description": "Description for Product 57",
-    "categoryId": 3,
+    "price": 673,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=57"
+      "https://source.unsplash.com/random/1600x900?product57"
     ]
   },
   {
     "id": 58,
     "title": "Product 58",
-    "price": 680,
-    "description": "Description for Product 58",
+    "price": 259,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=58"
+      "https://source.unsplash.com/random/1600x900?product58"
     ]
   },
   {
     "id": 59,
     "title": "Product 59",
-    "price": 713,
-    "description": "Description for Product 59",
-    "categoryId": 2,
+    "price": 782,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=59"
+      "https://source.unsplash.com/random/1600x900?product59"
     ]
   },
   {
     "id": 60,
     "title": "Product 60",
-    "price": 436,
-    "description": "Description for Product 60",
-    "categoryId": 2,
+    "price": 854,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=60"
+      "https://source.unsplash.com/random/1600x900?product60"
     ]
   },
   {
     "id": 61,
     "title": "Product 61",
-    "price": 227,
-    "description": "Description for Product 61",
-    "categoryId": 1,
+    "price": 232,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=61"
+      "https://source.unsplash.com/random/1600x900?product61"
     ]
   },
   {
     "id": 62,
     "title": "Product 62",
-    "price": 659,
-    "description": "Description for Product 62",
-    "categoryId": 2,
+    "price": 490,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=62"
+      "https://source.unsplash.com/random/1600x900?product62"
     ]
   },
   {
     "id": 63,
     "title": "Product 63",
-    "price": 189,
-    "description": "Description for Product 63",
-    "categoryId": 3,
+    "price": 117,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=63"
+      "https://source.unsplash.com/random/1600x900?product63"
     ]
   },
   {
     "id": 64,
     "title": "Product 64",
-    "price": 966,
-    "description": "Description for Product 64",
-    "categoryId": 1,
+    "price": 302,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=64"
+      "https://source.unsplash.com/random/1600x900?product64"
     ]
   },
   {
     "id": 65,
     "title": "Product 65",
-    "price": 671,
-    "description": "Description for Product 65",
+    "price": 636,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=65"
+      "https://source.unsplash.com/random/1600x900?product65"
     ]
   },
   {
     "id": 66,
     "title": "Product 66",
-    "price": 213,
-    "description": "Description for Product 66",
-    "categoryId": 4,
+    "price": 358,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=66"
+      "https://source.unsplash.com/random/1600x900?product66"
     ]
   },
   {
     "id": 67,
     "title": "Product 67",
-    "price": 264,
-    "description": "Description for Product 67",
-    "categoryId": 3,
+    "price": 201,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=67"
+      "https://source.unsplash.com/random/1600x900?product67"
     ]
   },
   {
     "id": 68,
     "title": "Product 68",
-    "price": 887,
-    "description": "Description for Product 68",
-    "categoryId": 1,
+    "price": 524,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=68"
+      "https://source.unsplash.com/random/1600x900?product68"
     ]
   },
   {
     "id": 69,
     "title": "Product 69",
-    "price": 766,
-    "description": "Description for Product 69",
-    "categoryId": 4,
+    "price": 358,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=69"
+      "https://source.unsplash.com/random/1600x900?product69"
     ]
   },
   {
     "id": 70,
     "title": "Product 70",
-    "price": 787,
-    "description": "Description for Product 70",
-    "categoryId": 4,
+    "price": 305,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=70"
+      "https://source.unsplash.com/random/1600x900?product70"
     ]
   },
   {
     "id": 71,
     "title": "Product 71",
-    "price": 708,
-    "description": "Description for Product 71",
+    "price": 861,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=71"
+      "https://source.unsplash.com/random/1600x900?product71"
     ]
   },
   {
     "id": 72,
     "title": "Product 72",
-    "price": 330,
-    "description": "Description for Product 72",
+    "price": 869,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=72"
+      "https://source.unsplash.com/random/1600x900?product72"
     ]
   },
   {
     "id": 73,
     "title": "Product 73",
-    "price": 282,
-    "description": "Description for Product 73",
-    "categoryId": 4,
+    "price": 10,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=73"
+      "https://source.unsplash.com/random/1600x900?product73"
     ]
   },
   {
     "id": 74,
     "title": "Product 74",
-    "price": 467,
-    "description": "Description for Product 74",
-    "categoryId": 2,
+    "price": 614,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=74"
+      "https://source.unsplash.com/random/1600x900?product74"
     ]
   },
   {
     "id": 75,
     "title": "Product 75",
-    "price": 685,
-    "description": "Description for Product 75",
-    "categoryId": 1,
+    "price": 334,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=75"
+      "https://source.unsplash.com/random/1600x900?product75"
     ]
   },
   {
     "id": 76,
     "title": "Product 76",
-    "price": 553,
-    "description": "Description for Product 76",
+    "price": 14,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=76"
+      "https://source.unsplash.com/random/1600x900?product76"
     ]
   },
   {
     "id": 77,
     "title": "Product 77",
-    "price": 173,
-    "description": "Description for Product 77",
-    "categoryId": 3,
+    "price": 394,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=77"
+      "https://source.unsplash.com/random/1600x900?product77"
     ]
   },
   {
     "id": 78,
     "title": "Product 78",
-    "price": 390,
-    "description": "Description for Product 78",
-    "categoryId": 1,
+    "price": 292,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=78"
+      "https://source.unsplash.com/random/1600x900?product78"
     ]
   },
   {
     "id": 79,
     "title": "Product 79",
-    "price": 860,
-    "description": "Description for Product 79",
-    "categoryId": 5,
+    "price": 157,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=79"
+      "https://source.unsplash.com/random/1600x900?product79"
     ]
   },
   {
     "id": 80,
     "title": "Product 80",
-    "price": 529,
-    "description": "Description for Product 80",
-    "categoryId": 1,
+    "price": 982,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=80"
+      "https://source.unsplash.com/random/1600x900?product80"
     ]
   },
   {
     "id": 81,
     "title": "Product 81",
-    "price": 551,
-    "description": "Description for Product 81",
+    "price": 340,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=81"
+      "https://source.unsplash.com/random/1600x900?product81"
     ]
   },
   {
     "id": 82,
     "title": "Product 82",
-    "price": 887,
-    "description": "Description for Product 82",
-    "categoryId": 2,
+    "price": 207,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=82"
+      "https://source.unsplash.com/random/1600x900?product82"
     ]
   },
   {
     "id": 83,
     "title": "Product 83",
-    "price": 739,
-    "description": "Description for Product 83",
+    "price": 611,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=83"
+      "https://source.unsplash.com/random/1600x900?product83"
     ]
   },
   {
     "id": 84,
     "title": "Product 84",
-    "price": 548,
-    "description": "Description for Product 84",
-    "categoryId": 4,
+    "price": 907,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=84"
+      "https://source.unsplash.com/random/1600x900?product84"
     ]
   },
   {
     "id": 85,
     "title": "Product 85",
-    "price": 580,
-    "description": "Description for Product 85",
-    "categoryId": 5,
+    "price": 426,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=85"
+      "https://source.unsplash.com/random/1600x900?product85"
     ]
   },
   {
     "id": 86,
     "title": "Product 86",
-    "price": 548,
-    "description": "Description for Product 86",
-    "categoryId": 1,
+    "price": 869,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=86"
+      "https://source.unsplash.com/random/1600x900?product86"
     ]
   },
   {
     "id": 87,
     "title": "Product 87",
-    "price": 774,
-    "description": "Description for Product 87",
+    "price": 871,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=87"
+      "https://source.unsplash.com/random/1600x900?product87"
     ]
   },
   {
     "id": 88,
     "title": "Product 88",
-    "price": 323,
-    "description": "Description for Product 88",
-    "categoryId": 1,
+    "price": 485,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=88"
+      "https://source.unsplash.com/random/1600x900?product88"
     ]
   },
   {
     "id": 89,
     "title": "Product 89",
-    "price": 302,
-    "description": "Description for Product 89",
-    "categoryId": 4,
+    "price": 439,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=89"
+      "https://source.unsplash.com/random/1600x900?product89"
     ]
   },
   {
     "id": 90,
     "title": "Product 90",
-    "price": 233,
-    "description": "Description for Product 90",
+    "price": 42,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
     "categoryId": 5,
     "images": [
-      "https://placeimg.com/640/480/any?product=90"
+      "https://source.unsplash.com/random/1600x900?product90"
     ]
   },
   {
     "id": 91,
     "title": "Product 91",
-    "price": 841,
-    "description": "Description for Product 91",
-    "categoryId": 5,
+    "price": 948,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=91"
+      "https://source.unsplash.com/random/1600x900?product91"
     ]
   },
   {
     "id": 92,
     "title": "Product 92",
-    "price": 309,
-    "description": "Description for Product 92",
-    "categoryId": 4,
+    "price": 171,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=92"
+      "https://source.unsplash.com/random/1600x900?product92"
     ]
   },
   {
     "id": 93,
     "title": "Product 93",
-    "price": 547,
-    "description": "Description for Product 93",
-    "categoryId": 3,
+    "price": 168,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=93"
+      "https://source.unsplash.com/random/1600x900?product93"
     ]
   },
   {
     "id": 94,
     "title": "Product 94",
-    "price": 456,
-    "description": "Description for Product 94",
-    "categoryId": 5,
+    "price": 117,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=94"
+      "https://source.unsplash.com/random/1600x900?product94"
     ]
   },
   {
     "id": 95,
     "title": "Product 95",
-    "price": 91,
-    "description": "Description for Product 95",
-    "categoryId": 1,
+    "price": 309,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=95"
+      "https://source.unsplash.com/random/1600x900?product95"
     ]
   },
   {
     "id": 96,
     "title": "Product 96",
-    "price": 82,
-    "description": "Description for Product 96",
-    "categoryId": 2,
+    "price": 378,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 4,
     "images": [
-      "https://placeimg.com/640/480/any?product=96"
+      "https://source.unsplash.com/random/1600x900?product96"
     ]
   },
   {
     "id": 97,
     "title": "Product 97",
-    "price": 965,
-    "description": "Description for Product 97",
-    "categoryId": 2,
+    "price": 771,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=97"
+      "https://source.unsplash.com/random/1600x900?product97"
     ]
   },
   {
     "id": 98,
     "title": "Product 98",
-    "price": 935,
-    "description": "Description for Product 98",
-    "categoryId": 5,
+    "price": 440,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 3,
     "images": [
-      "https://placeimg.com/640/480/any?product=98"
+      "https://source.unsplash.com/random/1600x900?product98"
     ]
   },
   {
     "id": 99,
     "title": "Product 99",
-    "price": 181,
-    "description": "Description for Product 99",
-    "categoryId": 2,
+    "price": 918,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 1,
     "images": [
-      "https://placeimg.com/640/480/any?product=99"
+      "https://source.unsplash.com/random/1600x900?product99"
     ]
   },
   {
     "id": 100,
     "title": "Product 100",
-    "price": 709,
-    "description": "Description for Product 100",
-    "categoryId": 3,
+    "price": 471,
+    "description": "Introducing the QuantumGlow™ LED Smart Bulb - the future of lighting technology at your fingertips. This cutting-edge smart bulb seamlessly combines energy efficiency, convenience, and style to elevate your home or office space. With its user-friendly mobile app, you can effortlessly control brightness levels, set schedules, and even choose from millions of vibrant colors to suit your mood or occasion. QuantumGlow™ is compatible with popular voice assistants like Alexa and Google Home, allowing for hands-free operation and integration into your smart home ecosystem. Its long-lasting LED technology not only reduces energy consumption but also ensures years of reliable performance, making it an environmentally conscious choice. Transform your space with QuantumGlow™ and experience the perfect fusion of innovation and illumination.",
+    "categoryId": 2,
     "images": [
-      "https://placeimg.com/640/480/any?product=100"
+      "https://source.unsplash.com/random/1600x900?product100"
     ]
   }
 ]

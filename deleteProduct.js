@@ -1,8 +1,7 @@
 const axios = require("axios");
 
 // API endpoint to get products with the title "diaper"
-const apiUrlGet =
-  "https://api.escuelajs.co/api/v1/products/?title=New%20Product";
+const apiUrlGet = "https://api.escuelajs.co/api/v1/products/?title=diaper";
 
 // Function to get product IDs with the title "diaper"
 const getProductIdsToDelete = async () => {
@@ -24,7 +23,7 @@ const getProductIdsToDelete = async () => {
 
 // Delete products by their IDs
 const deleteProductsByIds = async (productIds) => {
-  const apiUrlDelete = "https://api.escuelajs.co/api/v1/products/";
+  const apiUrlDelete = "https://api.escuelajs.co/api/v1/products/Product";
 
   for (const productId of productIds) {
     try {
@@ -48,7 +47,7 @@ const main = async () => {
   if (productIdsToDelete.length > 0) {
     await deleteProductsByIds(productIdsToDelete);
   } else {
-    console.log('No products found with the title "diaper"');
+    console.log("No products found with this title");
   }
 };
 
