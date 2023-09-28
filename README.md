@@ -10,9 +10,15 @@ The API endpoint for uploading the data is [https://api.escuelajs.co/api/v1/prod
 
 1. Make sure you have Node.js installed on your machine.
 
-2. Replace `'path/to/your/products.json'` in the scripts with the actual file path to your JSON data file. Ensure that the JSON file contains an array of product objects.
+2. Install the required Axios library by running:
 
-3. Run the scripts using Node.js:
+```bash
+npm install axios
+```
+
+3. Replace `'path/to/your/products.json'` in the scripts with the actual file path to your JSON data file. Ensure that the JSON file contains an array of product objects.
+
+4. Run the scripts using Node.js:
 
 - To create products from a JSON file:
 
@@ -28,7 +34,7 @@ The API endpoint for uploading the data is [https://api.escuelajs.co/api/v1/prod
   ```
   Replace `uploadProducts.js` with the name of your script file if it's different.
 
-4. The `createProducts.js` script will generate product data and save it to a JSON file, while the `uploadProducts.js` script will read the product data from the JSON file and send POST requests to the API for each product, creating them in the system.
+5. The `createProducts.js` script will generate product data and save it to a JSON file, while the `uploadProducts.js` script will read the product data from the JSON file and send POST requests to the API for each product, creating them in the system.
 
 ## Script Details
 
@@ -37,6 +43,10 @@ The API endpoint for uploading the data is [https://api.escuelajs.co/api/v1/prod
 - `uploadProducts.js`: The main script file that reads data from the JSON file and sends POST requests to the API.
 
 - `products.json`: The JSON file containing product data. Replace this with your own product data in the specified format.
+
+## Dependencies
+
+- [Axios](https://github.com/axios/axios): Axios is used for making HTTP requests to the API.
 
 ## Notes
 
